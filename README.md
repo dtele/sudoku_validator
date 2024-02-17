@@ -39,9 +39,13 @@ Each observation taken for the experiments are averaged over 1000 runs to minimi
 
 
 ### Results
+Fig1.(a) Experiment 1
 ![Fig1.(a) Experiment 1](https://github.com/dtele/sudoku_validator/blob/main/results/exp_1.png?raw=true "Fig1.(a) Experiment 1")
+Fig1.(b) Experiment 1 (logarithmic scale)
 ![Fig1.(b) Experiment 1 (logarithmic scale)](https://github.com/dtele/sudoku_validator/blob/main/results/exp_1_log.png?raw=true "Fig1.(a) Experiment 1 (logarithmic scale)")
-![Fig2.(a) Experiment 2 ](https://github.com/dtele/sudoku_validator/blob/main/results/exp_2.png?raw=true "Fig1.(a) Experiment 2")
+Fig2.(a) Experiment 2
+![Fig2.(a) Experiment 2](https://github.com/dtele/sudoku_validator/blob/main/results/exp_2.png?raw=true "Fig1.(a) Experiment 2")
+Fig2.(b) Experiment 2 (logarithmic scale)
 ![Fig2.(b) Experiment 2 (logarithmic scale)](https://github.com/dtele/sudoku_validator/blob/main/results/exp_2_log.png?raw=true "Fig1.(a) Experiment 2 (logarithmic scale)")
 
 ### Analysis
