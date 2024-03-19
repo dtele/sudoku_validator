@@ -60,7 +60,7 @@ int main() {
 
     for (int iteration = 0; iteration < REPEAT; iteration++) {
         for (const auto& job: jobs) {
-            valid = validate(n, job);
+            valid &= validate(n, job);
         }
     }
 
